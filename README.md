@@ -32,7 +32,7 @@ The project features a unified, multi-layered framework combining physical edge 
 Below is the system architecture of smart meter integrated with its core sensing subsystems:
 
 <p align="center">
-  <img src="images/circuit_diagram.jpg" alt="Hardware Circuit Assembly" width="600">
+  <img src="Block Diagram" alt="Hardware Circuit Assembly" width="600">
 </p>
 NILM Model Device Event Analytics
 The following charts illustrate the output graphs generated from the NILM model, tracing total current consumption changes and identifying exact appliance event states (ON/OFF transients):
