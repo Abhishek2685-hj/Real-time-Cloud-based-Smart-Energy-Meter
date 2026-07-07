@@ -84,7 +84,7 @@ Testing against standard industrial multimeters and commercial-grade meters show
 
 
 
-## 📜 Authors & Citation
+## 📜 Authors & Contrubutors
 * **Sumaiya MN** - *Department of ECE, DSATM, Bangalore* - drsumaiyamn@dsatm.edu.in
 * **Abhishek H.J** - *Department of ECE, DSATM, Bangalore* - abhishekhj12@gmail.com
 * **Hemanth Kumar M.M** - *Department of ECE, DSATM, Bangalore* - hemanthkumar.mm07@gmail.com
