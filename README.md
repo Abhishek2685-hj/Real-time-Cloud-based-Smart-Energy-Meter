@@ -6,6 +6,8 @@
 > * **1st Place** at the State-Level Project Exhibition (PESCE, Mandya).
 > * **3rd Place** at the DSATM Hackathon (Bangalore).
 > * **Best Project** at BMS College of Engineering (BMSCE, Bangalore).
+> * **Presented at the 2026 International Conference on Electric Power and Renewable Energy (EPREC)** at IIT Bhilai.
+> * **Filed Patent**
 
 An end-to-end IoT-driven smart grid solution that delivers real-time energy analytics, regional slab-based automated billing, neighbor-aware fault diagnostics, dynamic UPI QR-code payments, and Machine Learning-powered **Non-Intrusive Load Monitoring (NILM)** to track individual device states from a single point of measurement.
 
@@ -71,7 +73,7 @@ The following charts illustrate the output graphs generated from the NILM model,
 
 ## 📊 Performance Data & Calibration
 
-Testing against standard industrial multimeters (UNI-T UT61E) and commercial-grade meters (Secure Liberty 100) shows highly reliable operational safety metrics:
+Testing against standard industrial multimeters and commercial-grade meters shows highly reliable operational safety metrics:
 
 | Electrical Parameter | Reference Reading | Smart Meter Reading | Error (E%) | Accuracy (A%) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -88,5 +90,5 @@ Testing against standard industrial multimeters (UNI-T UT61E) and commercial-gra
 * **Hemanth Kumar M.M** - *Department of ECE, DSATM, Bangalore* - hemanthkumar.mm07@gmail.com
 * **Anirudh H.S** - *Department of ECE, DSATM, Bangalore* - anirudhhs11@gmail.com
 
-*Presented at the 2026 International Conference on Electric Power and Renewable Energy (EPREC).*
+
 
